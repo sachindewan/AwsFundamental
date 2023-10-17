@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBM4A58qzVR7qZrvAVSZQ6XQRJXgm0SDj4TKkLwngjBGQTgUp02slJgHyHqCsWL7cnGsFQWbRbqUIoituVMr/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sachin.kumar16\\Downloads\\7.8\\aws-fundamentals-final-master\\6.S3\\S3Playground\\S3Playground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.core\\3.7.103.18\\awssdk.core.3.7.103.18.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.s3\\3.7.101.56\\awssdk.s3.3.7.101.56.nupkg.sha512"
+  ],
+  "logs": []
+}

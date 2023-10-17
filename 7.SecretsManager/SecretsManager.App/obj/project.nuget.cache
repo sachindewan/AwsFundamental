@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXDZpXYA05ZEAXPsnxV9U4P9K18mIV3YKao9LCqvgQUFhz2hy9fv9NcGW1eh+ZCc+q2bv4Zg1bF/qumPPINEhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sachin.kumar16\\Downloads\\7.8\\aws-fundamentals-final-master\\7.SecretsManager\\SecretsManager.App\\SecretsManager.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.core\\3.7.103.18\\awssdk.core.3.7.103.18.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.secretsmanager\\3.7.101.11\\awssdk.secretsmanager.3.7.101.11.nupkg.sha512"
+  ],
+  "logs": []
+}

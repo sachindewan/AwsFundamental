@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZaqC5rb9QZXUTUI5MXck/ZiBZtjp3Vgrlute3OgmZjiBFZwHAqzbxJk6DRUWalSFnIZ3LC5P63ESMN9pnDx7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sachin.kumar16\\Downloads\\7.8\\aws-fundamentals-final-master\\5.DynamoDb\\Movies.App\\Movies.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.core\\3.7.103.16\\awssdk.core.3.7.103.16.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.24\\awssdk.dynamodbv2.3.7.101.24.nupkg.sha512"
+  ],
+  "logs": []
+}

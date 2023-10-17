@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gcO/1b5L+512hEcrlHuCB1DIByyq2EDRRqkHEgO2yQ8wp60jx8q3zvV4wJMjFCmfMv1/EYekt5XE9KoPPN0YVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sachin.kumar16\\Downloads\\7.8\\aws-fundamentals-final-master\\4.Sns\\SnsPublisher\\SnsPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.core\\3.7.103.18\\awssdk.core.3.7.103.18.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.100.57\\awssdk.simplenotificationservice.3.7.100.57.nupkg.sha512"
+  ],
+  "logs": []
+}

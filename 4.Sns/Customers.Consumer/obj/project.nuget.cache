@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ri+N79M7S0CiuN2av5IFYJry0jRL68mI3txkXbY1/zmP8aJ+YfXkJZIr0bZLo8l0JEbSKlsOIGF8G6NIGOTnIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sachin.kumar16\\Downloads\\7.8\\aws-fundamentals-final-master\\4.Sns\\Customers.Consumer\\Customers.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.core\\3.7.103.18\\awssdk.core.3.7.103.18.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\awssdk.sqs\\3.7.100.56\\awssdk.sqs.3.7.100.56.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\sachin.kumar16\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
